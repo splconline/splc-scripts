@@ -1,12 +1,13 @@
 ## Urgent
-
+* Janet re. thanks
+* Clem re. thanks
+* Leonie re. access key
 * Constitution & Policies upload
 * MYOB teacher bills
-* SEMAS booking
 * Course credits
 * Reconcile TOIL
 * BeConnected
-    * Pay for Calendly
+    * Pay for Calendly &#10004;
 * Vollies/android email &#10004;
 * Room COVID lockdown corrections &#10004;
 * Thank Amelia &#10004;
