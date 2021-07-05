@@ -1,6 +1,7 @@
 ## Urgent
 * Janet re. thanks
 * Clem re. thanks
+* Pete re. course
 * Leonie re. access key
 * Constitution & Policies upload
 * MYOB teacher bills
