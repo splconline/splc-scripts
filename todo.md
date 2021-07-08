@@ -1,14 +1,16 @@
 ## Urgent
 * Reconcile TOIL
+* Audit documents
 * Monthly procedure
     * Enrolment Prepaids/Accruals
-    * Room Hire Prepaids
+    * Room Hire Prepaids &#10004;
     * Expense report
     * BAS detail check
     * IGA &#10004;
     * Check bill dates
     * Account for Grant purchases
     * Room bills
+* Marie Ward - Asset Register prep
 * Course credits
 * MYOB teacher bills  &#10004;
 * MYOB spend money bills  &#10004;
@@ -16,7 +18,6 @@
 ## Current Enquiries
 
 * BAS
-* Marie Ward - Asset Register prep
 * Ebony 2022
 * Janet re. Audit &#10004;
 
