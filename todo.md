@@ -1,42 +1,30 @@
 ## Urgent
-* Reconcile TOIL
-* Audit documents
 * Monthly procedure
     * Enrolment Prepaids/Accruals
-    * Room Hire Prepaids &#10004;
-    * Expense report
     * BAS detail check
-    * IGA &#10004;
     * Check bill dates
-    * Account for Grant purchases
     * Room bills
+    * Expense report  &#10004;
 * Marie Ward - Asset Register prep
-* Course credits
-* MYOB teacher bills  &#10004;
-* MYOB spend money bills  &#10004;
-     
-## Current Enquiries
+* CM to MYOB
+* Toastmasters  &#10004;
+* Art Exhibition RSVPs  &#10004;
+* Dig up Asset Register (again) &#10004;
+* Audit documents  &#10004;
 
-* BAS
-* Ebony 2022
-* Janet re. Audit &#10004;
+## Not So Urgent I
 
-## Not So Urgent
+* Watercolour refunds aileen ileana
+* Other course credit refunds
+* Reconcile TOIL
+
+## Not So Urgent II
 
 * Watch beconnected videos
 * Write up procedures in wiki
-* Dig up Asset Register (again)
-* Order Optus
+* Ebony 2022
 
  &#10004; &#10004;
-
-## Prepaid Room Clients June 2021
-
-**Grow WA** 	18:00 		$270.00 	$0.00 	Details New Invoice 	Monthly
-
-**Kumon South Perth** 	24:00 		$720.00 	$0.00 	Details New Invoice 	Quarterly
-
-**South Perth Ladies Probus Club (inc.)** 	2:00 		$35.00 	$0.00 	Details New Invoice 	Quarterly
  
 ## Room Clients June 2021
 
