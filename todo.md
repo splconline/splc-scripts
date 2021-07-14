@@ -5,9 +5,9 @@
     * Check bill dates
     * Room bills
     * Expense report  &#10004;
-* Marie Ward - Asset Register prep
 * CM to MYOB
-* Toastmasters  &#10004;
+* Toastmasters - ELFIE
+* Marie Ward - Asset Register prep &#10004;
 * Art Exhibition RSVPs  &#10004;
 * Dig up Asset Register (again) &#10004;
 * Audit documents  &#10004;
