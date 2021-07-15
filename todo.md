@@ -1,24 +1,20 @@
 ## Urgent
 * Monthly procedure
-    * Enrolment Prepaids/Accruals
-    * BAS detail check
-    * Check bill dates
     * Room bills
     * Expense report  &#10004;
+    * Enrolment Prepaids/Accruals   &#10004;
+    * BAS detail check   &#10004;
+    * Check bill dates   &#10004;
 * CM to MYOB
-* Toastmasters - ELFIE
+* Remove Grow booking
+* Promo Gumtree class
+* Toastmasters enter bookings
 * Marie Ward - Asset Register prep &#10004;
-* Art Exhibition RSVPs  &#10004;
-* Dig up Asset Register (again) &#10004;
-* Audit documents  &#10004;
-
-## Not So Urgent I
-
 * Watercolour refunds aileen ileana
 * Other course credit refunds
 * Reconcile TOIL
 
-## Not So Urgent II
+## Not So Urgent I
 
 * Watch beconnected videos
 * Write up procedures in wiki
