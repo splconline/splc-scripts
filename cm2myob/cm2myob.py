@@ -56,5 +56,5 @@ deposit = df['Type']=='Deposit'
 # In[7]:
 
 
-df[~(cash|cheque|eft|saved|deposit)].to_csv('hurrah.csv',index=False)
+df[~(cash|cheque|eft|saved|deposit)].to_csv('hurrah.csv',index=False,header=False)
 
