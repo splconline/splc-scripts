@@ -33,7 +33,7 @@ df
 
 df.drop(['Day', 'Start',
        'Tot-Stus', 'Concession-Stus', 'CM Fee',
-       'Concession Fee', 'Materials'], axis=1, inplace=True)
+       'Concession Fee'], axis=1, inplace=True)
 df = df.sort_values('Code')
 
 
@@ -103,13 +103,25 @@ df=df.sort_values(['Category','Course'])
 # In[14]:
 
 
-# df.info()
+df.info()
 
 
 # In[15]:
 
 
 df.to_csv('hurrah.csv',index=False)
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 
 
 # In[ ]:
