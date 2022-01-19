@@ -1,5 +1,5 @@
 # splc-scripts
-A collection of scripts to automate SPLC (South Perth Learning Centre) processes. All are written as Jupyter notebooks, some have been converted to Python scripts for convenience.
+A collection of scripts to automate processes at the [South Perth Learning Centre](splc.org.au). All are written as Jupyter notebooks, some have been converted to Python scripts for convenience.
 
 Most scripts parse data from [Class Manager](classmanager.com.au) class management software for various purposes.
 
