@@ -1,6 +1,37 @@
 # splc-scripts
-A collection of scripts to automate SPLC (South Perth Learning Centre) processes such as report generation, ClassManager data preparation for entry into MYOB and so on and so forth.
+A collection of scripts to automate SPLC (South Perth Learning Centre) processes. All are written as Jupyter notebooks, some have been converted to Python scripts for convenience.
 
-Now let's see if this works.
+Most scripts parse data from [Class Manager](classmanager.com.au) class management software for various purposes.
 
-So far so good.
+## Contents
+
+### about2die
+Generates a list of classes that are in danger of cancellation due to lack of enrolments, so we can focus marketing efforts on these.
+
+### artauction
+A simple generic lookup script to look up email addresses.
+
+### beconnected
+Keeps track of how many 2021 signups occured that were not people who signed up in 2020 (who therefore count towards the Be Connected grant)
+
+### cm2myob
+Filters out the transactions that are not Merchant Banking transactions, then adds a column in which you can manually identify constituent transactions for a given day's Merchant Banking total.
+
+### courselist
+Generates a course list because previously receipts did not always contain course codes (course codes need to be entered into MYOB). No longer required because now receipts always contain course codes.
+
+### klcec
+Generates a per class list from a chronological list of room hires.
+
+### mailchimp
+A simple generic grouping script that extracts unique emails from a ClassManager persons export. Can't remember why I need this TBH.
+
+### studentlist
+Generates a class list of students, either just email addresses for copy-pasting into Outlook (because Outlook only works with ';' as separator) or full contact details for facilitators.
+
+### termreport
+Reformats the term financial report generates by ClassManager.
+
+
+
+
