@@ -12,4 +12,4 @@ A sample of such a spreadsheet for Term 1 2022 can be found [here](https://docs.
 
 ## Instructions
 
-Put `course_income.csv` in this folder, then run the notebook.
+Put `course_income.csv` in this folder, then run the notebook. To begin a new term, run the 'New Term' notebook, then for subsequent months, run the 'Monthly' notebook, to show updated values (then manually update the values in the spreadsheet for that month).
