@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#
+# .py version of the cm2myob repo notebook as of 17.05.2021
+#
 # In[1]:
 
 
@@ -36,73 +38,10 @@ df=df[['Number', 'Paid by', 'Date', 'Paid','Cumulative','Type', 'Payment_Type','
 df.head()
 
 
-# Add the column `Allocate` to contain MYOB allocation information
-
-# In[6]:
-
-
-df['MYOB Narration']=""
-
-
-# Populate Allocate with the course code or membership type
-
-# In[7]:
-
-
-def myobnarr(notes,cost):
-    if "Membership" in notes:
-        if cost == 15.0:
-            return 'Term Membership'
-        else:
-            return 'Membership' 
-    else:
-        return notes[notes.find("(")+1:notes.find(")")]
-
-
-# In[8]:
-
-
-df['MYOB Narration'] = df.apply(lambda x: myobnarr(x['Notes'], x['Paid']), axis=1)
-
-
-# In[9]:
-
-
-# For the record, this is what we used to do without a lambda function and thus not dealing with membership
-
-
-# In[10]:
-
-
-#df['Allocate'] = df['Notes'].str.extract(r'\((.*?)\)', expand=False)
-
-
-# Check results
-
-# In[11]:
-
-
-df.head()
-
-
-# For the record, here is how to strip the digits, maybe in the future we can specify allocation
-
-# In[12]:
-
-
-# df['Allocate'] = df['Allocate'].replace('(\d+)','',regex=True)
-
-
-# In[13]:
-
-
-df
-
-
 # ## Filter out non-credit card transactions
 # Now for the Boolean indexing. The rows we want to remove are 'Deposit'/'Saved' (from the Type column) and 'cash, 'EFT'/'cash' (from the Payment_Type) column. Constructing the Boolean index:
 
-# In[14]:
+# In[6]:
 
 
 cash = df['Payment_Type']=='cash'
@@ -114,7 +53,7 @@ deposit = df['Type']=='Deposit'
 
 # And now apply and export:
 
-# In[15]:
+# In[7]:
 
 
 df[~(cash|cheque|eft|saved|deposit)].to_csv('hurrah.csv',index=False,header=False)
