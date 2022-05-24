@@ -1,3 +1,5 @@
+# WHAT TO DO
+
 ## 1. Year Management
 * Set the core sessions and break sessions term dates in ClassManager
 
@@ -60,13 +62,7 @@
 * Attend monthly committee meetings 4:15 pm every 3rd Wednesday of the month 
 * Produce and deliver monthly coordinator's report
 
----
-# What to do
-
-
-
-
-# How to do
+# HOW TO DO
 
 * each term is 8 weeks long except for ICA & mahjong saturday
 * term starts 1 week after WA school term and goes for 8 weeks
