@@ -97,7 +97,7 @@ df
 # In[13]:
 
 
-df=df.sort_values(['Category','Course'])
+df=df.sort_values(['First Session','Course'])
 
 
 # In[14]:
@@ -110,22 +110,4 @@ df.info()
 
 
 df.to_csv('hurrah.csv',index=False)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
