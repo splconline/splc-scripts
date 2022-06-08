@@ -1,5 +1,5 @@
 # SPLC Centre Coordinator Tasks
-
+As of 7th June 2022
 ## 1. Year Management
 1. Set the core sessions and break sessions term dates in ClassManager
 * Prepare SPLC admin calendar
@@ -11,17 +11,17 @@
 * Enter core (multi-week) classes into ClassManager by week 5 of previous term
 * Enter auxilliary (one-off) sessions into ClassManager, preferably by week 6 of previous term, but can be later (because they are one-off)
 * Enter term break sessions into ClassManager, preferably by week 8 of term
-* Publish courses (thus opening enrolments) in week 6 and update students as such
+* Publish courses (open enrolments) in week 6 and update students as such
 * Inform teacher and students of course cancellations
 * Liase with John regarding ClassManager issues
 
 ## 3. Marketing
 1. Coordinate graphic design volunteer to provide images for social media volunteer to post to Facebook/Instagram
-* Design display posters and put them up @ supermarkets etc.
+* Design display posters and put them up at supermarkets etc.
 * Take live action photos for social media posts
-* Compose weekly MailChimp to promote interesting SPLC news and courses (especially low-enrolment courses) by week 8
+* Compose weekly MailChimp to promote interesting SPLC news and courses (especially low-enrolment courses)
 * Run surveys (via MailChimp/Google Forms) to get a feel for what the members want
-* Print term program for front desk volunteers and members without email addresses (to be snail mailed)
+* Print term program for front desk volunteers, walk-in enquiries and members without email addresses (to be snail mailed)
 * Update Curtin radio ad
 
 ## 4. Volunteer Management
