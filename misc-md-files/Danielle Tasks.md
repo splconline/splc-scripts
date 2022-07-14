@@ -56,7 +56,7 @@ As of 7th June 2022
 ## 6. Community Relations
 
 1. Liaise with LinkWest
-* Liaise with City of South Perth for various matters
+* Liaise with City of South Perth for various matters e.g. maintenance
 * Liaise with other community organisations for possible collaborations e.g. CARAD, Crochet for Cancer, ANHCA etc.
 * Apply for community grants
 
